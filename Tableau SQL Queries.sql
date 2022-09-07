@@ -15,7 +15,7 @@ ORDER BY 1, 2
 
 SELECT location, SUM(cast(new_deaths AS INT)) AS TotalDeathCount
 FROM CovidProject..CovidDeaths
-WHERE continent IS NOT NULL
+WHERE continent IS NULL
 AND location NOT IN ('World', 'European Union', 'International')
 GROUP BY location
 ORDER BY TotalDeathCount DESC
