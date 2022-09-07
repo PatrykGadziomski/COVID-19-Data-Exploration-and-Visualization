@@ -32,3 +32,7 @@ https://public.tableau.com/app/profile/patryk.gadziomski/viz/CovidDashboard_1662
 
 ## 3. SQL Data Cleaning
 ## 4. Correlation in Python
+
+
+# TO-DO:
+- Use the new dataset and not the old one
