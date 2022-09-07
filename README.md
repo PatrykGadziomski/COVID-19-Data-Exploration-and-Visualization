@@ -1,5 +1,5 @@
 # PortfolioProject_COVID-19
-Covid was a really bad thing. <br> But to understand how bas it really was let us analyse the data.
+Covid was a really bad thing. <br> But to understand how bas it really was let us analyse the data. <br>
 This Project is structured in four parts.
 
 1. SQL Data Exploration
