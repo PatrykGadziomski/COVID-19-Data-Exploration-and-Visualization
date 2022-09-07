@@ -4,8 +4,6 @@ This Project is structured in four parts.
 
 1. SQL Data Exploration
 2. Tableau Visualization
-3. SQL Data Cleaning
-4. Correlation in Python
 
 The main goal of this project is to tell a story. A bad atory about a pandemic, where a lot of people died.<br>
 The story consists of data. This project takes this data and visualize it, so that everybody can read and understand that story.
@@ -29,9 +27,6 @@ We gonna save each query as a excel file and use it in Tableau Pubic.
 ![Covid Dashboard](https://github.com/PatrykGadziomski/PortfolioProject_COVID-19/blob/main/CovidDashboard.png?raw=true)
 
 https://public.tableau.com/app/profile/patryk.gadziomski/viz/CovidDashboard_16625675839290/Dashboard1
-
-## 3. SQL Data Cleaning
-## 4. Correlation in Python
 
 
 # TO-DO:
