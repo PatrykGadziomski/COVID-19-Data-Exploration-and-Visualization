@@ -26,7 +26,7 @@ We will query the data, because we need this later for our tableau visualization
 We gonna save each query as a excel file and use it in Tableau Pubic.
 
 ## 2. Tableau Visualization
-![Covid Dashboard](https://github.com/PatrykGadziomski/PortfolioProject_COVID-19/blob/main/Covid Dashboard.png?raw=true)
+![Covid Dashboard](https://github.com/PatrykGadziomski/PortfolioProject_COVID-19/blob/main/CovidDashboard.png?raw=true)
 
 https://public.tableau.com/app/profile/patryk.gadziomski/viz/CovidDashboard_16625675839290/Dashboard1
 
