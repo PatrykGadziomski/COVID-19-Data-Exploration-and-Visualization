@@ -1,6 +1,7 @@
-# PortfolioProject_COVID-19
-Covid was/is a really bad thing. <br> But to understand how bds it really was let us analyse the data. <br>
-This Project is structured in four parts.
+# COVID-19 Dashboard
+Covid was/is a really bad thing. <br> 
+But to understand how bad it really was/is let us analyse the data.<br>
+This Project is structured in two parts.
 
 1. SQL Data Exploration
 2. Tableau Visualization
@@ -21,13 +22,7 @@ We will query the data, because we need this later for our tableau visualization
 - Percent population infected per country
 - Percent population infected
 
-We gonna save each query as a excel file and use it in Tableau Pubic.
-
 ## 2. Tableau Visualization
 ![Covid Dashboard](https://github.com/PatrykGadziomski/PortfolioProject_COVID-19/blob/main/CovidDashboard.png?raw=true)
 
 https://public.tableau.com/app/profile/patryk.gadziomski/viz/CovidDashboard_16625675839290/Dashboard1
-
-
-# TO-DO:
-- Use the new dataset and not the old one
