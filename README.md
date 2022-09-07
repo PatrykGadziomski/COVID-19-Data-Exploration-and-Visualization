@@ -26,7 +26,8 @@ We will query the data, because we need this later for our tableau visualization
 We gonna save each query as a excel file and use it in Tableau Pubic.
 
 ## 2. Tableau Visualization
-![Covid Dashboard](url "repository/Covid Dashboard.png")
+<img src="/repository/Covid Dashboard.png" alt="Covid Dashboard" title="Covid Dashboard">
+
 https://public.tableau.com/app/profile/patryk.gadziomski/viz/CovidDashboard_16625675839290/Dashboard1
 
 ## 3. SQL Data Cleaning
