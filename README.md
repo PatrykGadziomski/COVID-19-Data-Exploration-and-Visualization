@@ -10,7 +10,7 @@ This Project is structured in four parts.
 The main goal of this project is to tell a story. A bad atory about a pandemic, where a lot of people died.<br>
 The story consists of data. This project takes this data and visualize it, so that everybody can read and understand that story.
 
-The dataset i'm using:<br>
+**The dataset i'm using:**<br>
 https://ourworldindata.org/covid-deaths <br>
 *The version of the dataset i'm using may be not the latest*
 
