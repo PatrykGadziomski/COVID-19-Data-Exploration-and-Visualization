@@ -16,7 +16,7 @@ https://ourworldindata.org/covid-deaths <br>
 
 ## 1. SQL Data Exploration<br>
 So the first thing we do is gonna be data exploration with SQL.<br>
-We qill query the data, because we need this later for our tableau visualization.<br>
+We will query the data, because we need this later for our tableau visualization.<br>
 **Our Queries:**
 - Global data
 - Total deaths per continent
