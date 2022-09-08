@@ -1,4 +1,4 @@
-# COVID-19 Dashboard
+# COVID-19 Data Exploration and Visualization
 Covid was/is a really bad thing. <br> 
 But to understand how bad it really was/is let us analyse the data.<br>
 This Project is structured in two parts.
