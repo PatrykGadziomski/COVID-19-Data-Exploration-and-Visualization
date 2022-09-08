@@ -22,7 +22,7 @@ We will query the data, because we need this later for our tableau visualization
 - Percent population infected
 
 ## 2. Tableau Visualization
-For our visualizations we use Tableau Public.<br>
+For our visualizations we use Tableau Public.<br><br>
 ![Covid Dashboard](https://github.com/PatrykGadziomski/PortfolioProject_COVID-19/blob/main/CovidDashboard.png?raw=true)
 
 https://public.tableau.com/app/profile/patryk.gadziomski/viz/CovidDashboard_16625675839290/Dashboard1
