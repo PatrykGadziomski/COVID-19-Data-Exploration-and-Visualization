@@ -1,6 +1,5 @@
 # COVID-19 Data Exploration and Visualization
-Covid was/is a really bad thing. <br> 
-But to understand how bad it really was/is let us analyse the data.<br>
+This project analyse the data of covid deaths and covid infections since **24.02.2020** until **06.09.2022**.<br>
 This Project is structured in two parts.
 
 1. SQL Data Exploration
@@ -23,6 +22,7 @@ We will query the data, because we need this later for our tableau visualization
 - Percent population infected
 
 ## 2. Tableau Visualization
+For our visualizations we use Tableau Public.<br>
 ![Covid Dashboard](https://github.com/PatrykGadziomski/PortfolioProject_COVID-19/blob/main/CovidDashboard.png?raw=true)
 
 https://public.tableau.com/app/profile/patryk.gadziomski/viz/CovidDashboard_16625675839290/Dashboard1
